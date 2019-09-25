@@ -1,0 +1,14 @@
+<mjml>
+	<mj-head>
+		<mj-title>{% block title %}{% endblock %}</mj-title>
+		<mj-preview>{% block preheader %}{% endblock %}</mj-preview>
+
+		<mj-attributes>
+		   <mj-all font-family="Arial" />
+		   <mj-class name="blue" color="blue" />
+        </mj-attributes>
+	</mj-head>
+	<mj-body {% block containerbackground %}{% endblock %}>
+		{% block content %}{% endblock %}
+	</mj-body>
+</mjml>
