@@ -1,0 +1,90 @@
+	<!-- Jeden produkt -->
+	<mj-section background-color="white">
+
+		<!-- Left image -->
+		<mj-column vertical-align="center" width="300px" padding="0">
+		   	 
+			      <mj-image href="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" padding="0" width="300px" height="300px" background-color="#000" src="https://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" />
+			
+		</mj-column>
+
+		<!-- right paragraph -->
+		<mj-column padding="50px 20px 0 0">
+			<mj-text mj-class="h1" padding="0">
+				<a href="http://www.brasty.cz" class="text-black anchor-reset h1" style="font-family:Arial;text-decoration:none;">Hugo Boss</a>
+			</mj-text>
+
+			<mj-text font-size="18px" letter-spacing="0.18px" line-height="24px" mj-class="text-black" padding="20px 0 0 0" >
+				Boss No.6 Bottled 50ml
+			</mj-text>
+
+            <mj-text mj-class="h1" padding="30px 0 0 0">
+				600 Kč
+			</mj-text>
+            
+                      <mj-text padding="20px 0 0 0">
+
+
+           					        <div><!--[if mso]>
+										  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:48px;v-text-anchor:middle;width:147px;" stroke="f" fillcolor="#009e31">
+										    <w:anchorlock/>
+										    <center>
+										  <![endif]-->
+										      <a href="http://www.brasty.cz"
+										style="background-color:#009e31;color:#ffffff;display:inline-block;font-size: 18px;
+										           					        letter-spacing: 0.72px;line-height:48px;text-align:center;text-decoration:none;width:147px;-webkit-text-size-adjust:none;">CUMPARA</a>
+										  <!--[if mso]>
+										    </center>
+										  </v:rect>
+										<![endif]-->
+									</div>
+         			  </mj-text>
+
+		</mj-column>
+	</mj-section>
+
+
+
+
+		<!-- Jeden produkt -->
+	<mj-section background-color="white">
+
+		<!-- Left image -->
+		<mj-column vertical-align="center" width="300px" padding="0">
+		   	 
+			      <mj-image href="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" padding="0" width="300" height="300" background-color="#000" src="https://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" />
+			
+		</mj-column>
+
+		<!-- right paragraph -->
+		<mj-column padding="50px 20px 0 0">
+			<mj-text mj-class="h1" padding="0">
+				<a href="http://www.brasty.cz" class="text-black anchor-reset h1">L´Oréal Professionnel</a>
+			</mj-text>
+
+			<mj-text font-size="18px" letter-spacing="0.18px" line-height="24px" mj-class="text-black" padding="20px 0 0 0" >
+				Classic Petite Melrose
+			</mj-text>
+
+            <mj-text mj-class="h1" padding="30px 0 0 0">
+				600 Kč
+			</mj-text>
+            
+                      <mj-text padding="20px 0 0 0">
+           					        <div><!--[if mso]>
+										  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:48px;v-text-anchor:middle;width:147px;" stroke="f" fillcolor="#009e31">
+										    <w:anchorlock/>
+										    <center>
+										  <![endif]-->
+										      <a href="http://www.brasty.cz"
+										style="background-color:#009e31;color:#ffffff;display:inline-block;font-size: 18px;
+										           					        letter-spacing: 0.72px;line-height:48px;text-align:center;text-decoration:none;width:147px;-webkit-text-size-adjust:none;">CUMPARA</a>
+										  <!--[if mso]>
+										    </center>
+										  </v:rect>
+										<![endif]-->
+									</div>
+         			  </mj-text>
+
+		</mj-column>
+	</mj-section>

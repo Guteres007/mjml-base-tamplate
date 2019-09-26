@@ -1,0 +1,14 @@
+	<!-- Intro text -->
+	<mj-section background-color="#fff">
+		<mj-column >
+
+			<mj-text  align="center" line-height="30px" mj-class="h1 black">Josefíno, <br>
+tyhle kousky Vám padnou do nosu!</mj-text>
+
+			<mj-text color="#000" line-height="25px" font-size="19px" letter-spacing="0.19px" align="center" padding="0px 60px 20px 60px">
+				Šli jsme po vůni a došli jsme až na váš 
+parfém značky Hugo Boss. Nechcete vyzkoušet další? 
+Mrkněte, co máme na skladě!
+			</mj-text>
+		</mj-column>
+	</mj-section>

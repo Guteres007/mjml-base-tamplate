@@ -5,10 +5,66 @@
 
 		<mj-attributes>
 		   <mj-all font-family="Arial" />
-		   <mj-class name="blue" color="blue" />
+		   <mj-class name="h1" font-weight="700" font-size="24px" letter-spacing="0.24px" />
+		   <mj-class name="text-black" color="#000" />
+		   <mj-class name="black" background-color="#000" />
+		   <mj-class name="text-white" color="#fff" />
+		   <mj-class name="green" background-color="#009e31" />
+		   <mj-class name="purple" background-color="#6249a4" />
+		   <mj-class name="white" background-color="#fff" />
+           <mj-class name="p0" padding="0" />
+           <mj-class name="table-fixed" table-layout="fixed" />
+		   
         </mj-attributes>
+
+            <mj-style inline="inline">
+      			.anchor-big { 
+      			   color: #fff;
+      			   text-decoration: none;
+      			   background-color: #009e31;
+      			   text-transform: uppercase;
+      			}
+      			.anchor-reset {
+                   text-decoration: none;
+      			}
+      			.text-black {
+      			   color: #000;
+      			}
+      			 .text-purple {
+      			 	color: #6249a4;
+      			 }
+      			.h1 {
+      			  letter-spacing: 0.24px;
+      			  font-size: 24px;
+      			  font-weight: 700;
+      			}
+      			.h2 {
+      			  font-size: 18px;
+      			  letter-spacing: 0.72px;
+      			  font-weight: 400;
+      			}
+                .h3 {
+                	color: #000000;
+					font-size: 16px;
+					font-weight: 700;
+					letter-spacing: 0.16px;
+					line-height: 15px;
+					text-decoration: none;
+                }
+      			
+    		</mj-style>
+
+            <mj-style>
+			      @media (min-width:480px) { 
+			        .neco {
+			          border-left:2px solid black!important;
+			          border-right:2px solid black!important;
+			        }
+			      }
+    </mj-style>
+
 	</mj-head>
-	<mj-body {% block containerbackground %}{% endblock %}>
+	<mj-body {% block containerbackground %}{% endblock %} padding="0">
 		{% block content %}{% endblock %}
 	</mj-body>
 </mjml>

@@ -1,0 +1,14 @@
+<!-- separátor -->
+	<mj-section padding="0" width="600px">
+      <mj-column >
+        <mj-table padding="0">
+            <tbody>
+            	<tr>
+            		<td style="padding: 4px; background-color: #f1f1f1;">
+            			
+            		</td>
+            	</tr>
+            </tbody>
+        </mj-table>
+      </mj-column>
+    </mj-section>

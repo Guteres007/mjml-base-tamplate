@@ -1,0 +1,8 @@
+
+<mj-section width="600px" mj-class="p0">
+  <mj-column mj-class="purple">
+  	   <mj-text align="center" width="600px" mj-class="text-white p0">
+  	       <h2 class="h2" style="display: block; padding: 7px;" >Přičichněte k něčemu novému:</h2>
+  	   </mj-text>
+  </mj-column>
+</mj-section>
