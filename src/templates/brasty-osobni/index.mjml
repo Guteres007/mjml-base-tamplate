@@ -7,8 +7,18 @@
 background-color="#f1f1f1"
 {% endblock %}
 
-{% block content %}
 
+
+
+{% block content %}
+   
+   <mj-section>
+       <mj-column>
+           <mj-text>
+               
+           </mj-text>
+       </mj-column>
+   </mj-section>
 	<!-- Header -->
   {% include "brasty-header.mjml" %}
 

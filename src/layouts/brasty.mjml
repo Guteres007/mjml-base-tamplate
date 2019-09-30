@@ -18,9 +18,9 @@
        <mj-class name="p0" padding="0" />
        <mj-class name="table-fixed" table-layout="fixed" />
        <mj-class name="grey" background-color="#f1f1f1" />  
-        </mj-attributes>
+    </mj-attributes>
 
-            <mj-style inline="inline">
+        <mj-style inline="inline">
       			.anchor-big { 
       			   color: #fff;
       			   text-decoration: none;
@@ -63,15 +63,36 @@
               line-height: 14px;
               text-decoration: none;
             }
+
+
     		</mj-style>
 
             <mj-style>
-			      @media (min-width:480px) { 
-			        .neco {
-			          border-left:2px solid black!important;
-			          border-right:2px solid black!important;
-			        }
-			      }
+             @media (max-width:480px) { 
+              .img-responsive img {
+                max-width: 100%!important;
+                height: auto!important;
+              }
+              .one-product {
+
+              }
+              .one-product img{
+                margin: auto!important;
+                width: 150px!important;
+                height: 150px!important;
+              }
+              .m-text-center {
+                text-align: center!important;
+              }
+              .one-product .right a, .one-product .right div, .one-product .right td   {
+                 display: block!important;
+                 text-align: center!important;
+              }
+              .m-button-center table {
+
+                margin: auto!important;
+              }
+            }
     </mj-style>
 
 	</mj-head>
