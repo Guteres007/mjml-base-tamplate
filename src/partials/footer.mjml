@@ -1,0 +1,91 @@
+<mj-section mj-class="black" padding-bottom="0">
+	<mj-column>
+	    <mj-image container-background-color="black" padding-bottom="0" padding-top="8px" src="../img/sleva.jpg" width="32px" height="34px" alt="NEJLEPŠÍ CENY NA TRHU"/>
+	    
+	    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="9px" line-height="15px" padding-bottom="0" >
+	        NEJLEPŠÍ CENY NA TRHU
+	    </mj-text>
+
+	    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="7px" line-height="14px" padding-top="5px" >
+	        PŘESVĚDČTE SE!
+	    </mj-text>
+	</mj-column>
+
+	<mj-column>
+		    <mj-image container-background-color="black" padding-bottom="0" src="../img/darek.jpg" width="32px" height="32px" alt="KE KAŽDÉ	OBJEDNÁVCE DÁREK"/>
+		    
+		    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="9px" line-height="15px" padding-bottom="0">
+		        KE KAŽDÉ OBJEDNÁVCE DÁREK
+		    </mj-text>
+
+		    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="7px" line-height="14px" padding-top="5px" >
+		        MALÉ PŘEKVAPENÍ PRO VÁS 
+		    </mj-text>
+	</mj-column>
+
+
+	<mj-column>
+	    <mj-image container-background-color="black" padding-bottom="0" padding-top="12px" src="../img/checkbox.jpg" width="27px" height="30px" alt="RYCHLÉ A LEVNÉ DORUČENÍ "/>
+	    
+	    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="9px" line-height="15px" padding-bottom="0">
+	        RYCHLÉ A LEVNÉ DORUČENÍ
+	    </mj-text>
+
+	    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="7px" line-height="14px" padding-top="5px" >
+	        Z VLASTNÍCH SKLADŮ
+	    </mj-text>
+	</mj-column>
+
+	<mj-column>
+	    <mj-image container-background-color="black" padding-bottom="0" src="../img/stitek.jpg" width="32px" height="32px" alt="ORIGINÁLNÍ 
+ZNAČKOVÉ ZBOŽÍ"/>
+	    
+	    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="9px" line-height="15px" padding-bottom="0">
+	        ORIGINÁLNÍ ZNAČKOVÉ ZBOŽÍ
+	    </mj-text>
+
+	    <mj-text color="#9e9e9e" text-transform="uppercase" align="center" font-size="7px" line-height="14px" padding-top="5px" >
+	        Z OVĚŘENÝCH ZDROJŮ
+	    </mj-text>
+	</mj-column>
+</mj-section>
+
+
+
+
+<mj-section mj-class="black" padding="10px 0 0 0">
+  <mj-column>
+     <mj-text align="center">
+      <span style="padding: 0 10px;">
+	      <a href="/eeee" target="_blank" style="text-decoration: none;">
+	        <img src="../img/facebook.jpg" width="28px" height="28px" alt="facebook"/>
+	      </a>
+      </span>
+      <span style="padding: 0 10px;">
+	      <a href="/eeee" target="_blank" style="text-decoration: none;">
+		    <img src="../img/instagram.jpg" width="27px" height="28px" alt="instagram" />
+		  </a>
+	  </span>
+	  <span style="padding: 0 10px;">
+		  <a href="/eeee" target="_blank" style="text-decoration: none;">
+		    <img src="../img/youtube.jpg" width="27px" height="27px" alt="youtube" />
+		  </a>
+	  </span>
+     </mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section mj-class="black" padding="10px 50px 30px 50px">
+    <mj-column>
+        <mj-text color="#9e9e9e" font-size="10px" line-height="15px" align="center" padding-top="0">
+Abyste naše e-maily dostávali do správné schránky a neztrácely se v nevyžádané poště,
+ přidejte si prosím newsletter@brasty.cz do seznamu svých kontaktů.
+        </mj-text>
+        <mj-text color="#9e9e9e" font-size="10px" line-height="15px" align="center">
+            Toto obchodní sdělení jsme Vám poslali na na základě Vaší registrace nebo nákupu. Všechny ceny v nabídce jsou uvedeny včetně DPH.
+Brasty.cz, všechna práva vyhrazena.
+Chcete se odhlásit? <a style="color: #6249a4;" href="/here">Klikněte zde.</a> 
+        </mj-text>
+    </mj-column>
+</mj-section>

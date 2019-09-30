@@ -31,27 +31,17 @@ background-color="#f1f1f1"
   {% include "heading-purple.mjml" %}
 
 
-	<!-- Icons -->
-	<mj-section background-color="#fbfbfb">
-		<mj-column>
-			<mj-image width="100" src="http://191n.mj.am/img/191n/3s/x0l.png" />
-		</mj-column>
-		<mj-column>
-			<mj-image width="100" src="http://191n.mj.am/img/191n/3s/x01.png" />
-		</mj-column>
-		<mj-column>
-			<mj-image width="100" src="http://191n.mj.am/img/191n/3s/x0s.png" />
-		</mj-column>
-	</mj-section>
 
-	<mj-section background-color="#e7e7e7">
-		<mj-column>
-			<mj-social mode="vertical">
-				<mj-social-element name="facebook" href="https://github.com/jpagano/mjml-starter-base">
-					Share
-				</mj-social-element>
-			</mj-social>
-		</mj-column>
-	</mj-section>
+  {% include "three-products.mjml" %}
+
+
+  {% include "heading-black.mjml" %}
+
+
+  {% include "four-products.mjml" %}
+
+
+
+   {% include "footer.mjml" %}
 
 {% endblock %}

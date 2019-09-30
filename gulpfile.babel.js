@@ -56,7 +56,7 @@ export function buildTemplates() {
 export function buildMjml() {
   const options = {
     beautify: true,
-    minify: false
+    minify: true
   };
 
   return gulp.src(PATHS.mjml.src)

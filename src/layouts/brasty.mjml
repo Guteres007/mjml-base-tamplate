@@ -5,16 +5,19 @@
 
 		<mj-attributes>
 		   <mj-all font-family="Arial" />
+		   <mj-button background-color="#009e31" border-radius="0" />
 		   <mj-class name="h1" font-weight="700" font-size="24px" letter-spacing="0.24px" />
-		   <mj-class name="text-black" color="#000" />
+		   <mj-class name="h3" font-weight="700" font-size="16px" letter-spacing="0.16px" />
+       <mj-class name="h4" font-weight="700" font-size="12px" letter-spacing="0.12px" />
+   	   <mj-class name="text-black" color="#000" />
 		   <mj-class name="black" background-color="#000" />
 		   <mj-class name="text-white" color="#fff" />
 		   <mj-class name="green" background-color="#009e31" />
 		   <mj-class name="purple" background-color="#6249a4" />
 		   <mj-class name="white" background-color="#fff" />
-           <mj-class name="p0" padding="0" />
-           <mj-class name="table-fixed" table-layout="fixed" />
-		   
+       <mj-class name="p0" padding="0" />
+       <mj-class name="table-fixed" table-layout="fixed" />
+       <mj-class name="grey" background-color="#f1f1f1" />  
         </mj-attributes>
 
             <mj-style inline="inline">
@@ -43,15 +46,23 @@
       			  letter-spacing: 0.72px;
       			  font-weight: 400;
       			}
-                .h3 {
-                	color: #000000;
-					font-size: 16px;
-					font-weight: 700;
-					letter-spacing: 0.16px;
-					line-height: 15px;
-					text-decoration: none;
-                }
+            .h3 {
+            	color: #000000;
+    					font-size: 16px;
+    					font-weight: 700;
+    					letter-spacing: 0.16px;
+    					line-height: 15px;
+    					text-decoration: none;
+            }
       			
+            .h4 {
+              color: #000000;
+              font-size: 12px;
+              font-weight: 700;
+              letter-spacing: 0.12px;
+              line-height: 14px;
+              text-decoration: none;
+            }
     		</mj-style>
 
             <mj-style>
