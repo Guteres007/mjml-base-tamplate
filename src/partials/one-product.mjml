@@ -9,16 +9,16 @@
 		</mj-column>
 
 		<!-- right paragraph -->
-		<mj-column padding="50px 20px 0 20px" width="260px" css-class="right">
+		<mj-column padding="50px 20px 0 20px" width="260px" css-class="right pt10">
 			<mj-text mj-class="h1" padding="0">
 				<a href="http://www.brasty.cz" target="_blank" class="text-black anchor-reset h1" style="font-family:Arial;text-decoration:none;">Hugo Boss</a>
 			</mj-text>
 
-			<mj-text font-size="18px" letter-spacing="0.18px" line-height="24px" mj-class="text-black" padding="20px 0 0 0" >
+			<mj-text font-size="18px" letter-spacing="0.18px" line-height="24px" mj-class="text-black" padding="20px 0 0 0" css-class="p pt10">
 				Boss No.6 Bottled 50ml
 			</mj-text>
 
-            <mj-text mj-class="h1" padding="30px 0 0 0">
+            <mj-text mj-class="h1" padding="30px 0 0 0" css-class="h1 pt10">
 				600 Kč
 			</mj-text>
             

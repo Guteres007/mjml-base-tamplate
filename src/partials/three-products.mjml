@@ -1,4 +1,4 @@
-<mj-section mj-class="white" padding-left="5px" padding-right="5px">
+<mj-section mj-class="white" padding-left="5px" padding-right="5px" css-class="three-products">
     <mj-column padding="5px">
     
 		  
@@ -72,7 +72,7 @@
 
 
 
-<mj-section mj-class="white" padding-left="5px" padding-right="5px">
+<mj-section mj-class="white" padding-left="5px" padding-right="5px" css-class="three-products">
     <mj-column padding="5px">
     
 		  

@@ -1,10 +1,10 @@
 
-<mj-section width="600px" mj-class="white" >
-	   <mj-column >
-	       <mj-table padding="0" mj-class="table-fixed" width="300px">
+<mj-section width="600px" mj-class="white" css-class="two-products" >
+	   <mj-column css-class="col" >
+	       <mj-table padding="0" mj-class="table-fixed" css-class="b-container" width="300px">
 	        <tr>
 	            <td>
-	               <table style="height: 180px; width:140px;">
+	               <table style="height: 180px; width:140px;" class="image">
 	                  <tbody>
 	                  	<tr>
 	                  	   <td>  
@@ -21,7 +21,7 @@
 	               </table>
 	            </td>
 	             <td>
-	               <table style="height: 180px;">
+	               <table style="height: 180px;" class="description">
 	                  <tbody>
 	                  	<tr>
 	                  	    <td style="padding: 0 8px 0 0;">
@@ -57,11 +57,11 @@ Classic Petite Melrose</p>
 
 
 
-	   <mj-column>
-	       <mj-table padding="0" mj-class="table-fixed" width="300px">
+	   <mj-column css-class="col">
+	       <mj-table padding="0" mj-class="table-fixed" css-class="b-container" width="300px">
 	        <tr>
 	            <td>
-	               <table style="height: 180px; width:140px;">
+	               <table style="height: 180px; width:140px;" class="image">
 	                  <tbody>
 	                  	<tr>
 	                  	   <td>  
@@ -78,7 +78,7 @@ Classic Petite Melrose</p>
 	               </table>
 	            </td>
 	             <td>
-	               <table style="height: 180px;">
+	               <table style="height: 180px;" class="description">
 	                  <tbody>
 	                  	<tr>
 	                  	     <td style="padding: 0 8px 0 0;">
@@ -120,12 +120,12 @@ Classic Petite Melrose</p>
 
 
 
-<mj-section width="600px" mj-class="white" >
-	   <mj-column>
-	       <mj-table padding="0" mj-class="table-fixed" width="300px">
+<mj-section width="600px" mj-class="white"  css-class="two-products">
+	   <mj-column css-class="col">
+	       <mj-table padding="0" mj-class="table-fixed" css-class="b-container" width="300px">
 	        <tr style="padding:50px">
 	            <td>
-	               <table style="height: 180px; width:140px;">
+	               <table style="height: 180px; width:140px;" class="image">
 	                  <tbody>
 	                  	<tr>
 	                  	   <td>  
@@ -142,7 +142,7 @@ Classic Petite Melrose</p>
 	               </table>
 	            </td>
 	             <td>
-	               <table style="height: 180px;">
+	               <table style="height: 180px;" class="description">
 	                  <tbody>
 	                  	<tr>
 	                  	    <td style="padding: 0 8px 0 0;">

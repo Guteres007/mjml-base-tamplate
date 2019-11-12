@@ -1,11 +1,11 @@
 	<!-- Intro text -->
-	<mj-section background-color="#fff">
+	<mj-section background-color="#fff" css-class="intro">
 		<mj-column >
 
-			<mj-text  align="center" line-height="30px" mj-class="h1 black">Josefíno, <br>
+			<mj-text  align="center" line-height="30px" mj-class="h1 black" css-class="h1">Josefíno, <br>
 tyhle kousky Vám padnou do nosu!</mj-text>
 
-			<mj-text color="#000" line-height="25px" font-size="19px" letter-spacing="0.19px" align="center" padding="0px 60px 20px 60px">
+			<mj-text color="#000" line-height="25px" font-size="19px" letter-spacing="0.19px" align="center" padding="0px 60px 20px 60px" css-class="p">
 				Šli jsme po vůni a došli jsme až na váš 
 parfém značky Hugo Boss. Nechcete vyzkoušet další? 
 Mrkněte, co máme na skladě!
