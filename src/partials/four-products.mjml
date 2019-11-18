@@ -7,7 +7,7 @@
 		    <mj-text align="center" mj-class="h4 text-black" padding="20px 0 0 0">
 		        <a class="h4" href="http://www.brasty.cz">L´Oréal Professionnel</a>
 		    </mj-text>
-		    <mj-text align="center" font-size="9px" letter-spacing="0.9px;" padding="5px 0 0 0">
+		    <mj-text align="center" font-size="9px" letter-spacing="0.9px" padding="5px 0 0 0">
 		        Classic Petite Melrose
 		    </mj-text>
 
@@ -28,7 +28,7 @@
 		    <mj-text align="center" mj-class="h4 text-black" padding="20px 0 0 0">
 		        <a class="h4" href="http://www.brasty.cz">L´Oréal Professionnel</a>
 		    </mj-text>
-		    <mj-text align="center" font-size="9px" letter-spacing="0.9px;" padding="5px 0 0 0">
+		    <mj-text align="center" font-size="9px" letter-spacing="0.9px" padding="5px 0 0 0">
 		        Classic Petite Melrose
 		    </mj-text>
 
@@ -48,7 +48,7 @@
 	    <mj-text align="center" mj-class="h4 text-black" padding="20px 0 0 0">
 	        <a class="h4" href="http://www.brasty.cz">L´Oréal Professionnel</a>
 	    </mj-text>
-	    <mj-text align="center" font-size="9px" letter-spacing="0.9px;" padding="5px 0 0 0">
+	    <mj-text align="center" font-size="9px" letter-spacing="0.9px" padding="5px 0 0 0">
 	        Classic Petite Melrose
 	    </mj-text>
 
@@ -70,7 +70,7 @@
 	    <mj-text align="center" mj-class="h4 text-black" padding="20px 0 0 0">
 	        <a class="h4" href="http://www.brasty.cz">L´Oréal Professionnel</a>
 	    </mj-text>
-	    <mj-text align="center" font-size="9px" letter-spacing="0.9px;" padding="5px 0 0 0">
+	    <mj-text align="center" font-size="9px" letter-spacing="0.9px" padding="5px 0 0 0">
 	        Classic Petite Melrose
 	    </mj-text>
 

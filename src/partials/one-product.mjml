@@ -2,7 +2,7 @@
 	<mj-section background-color="white"  css-class="one-product">
 
 		<!-- Left image -->
-		<mj-column css-class="left" vertical-align="center" width="280px" padding="0">
+		<mj-column css-class="left" vertical-align="middle" width="280px" padding="0">
 		   	 
 			      <mj-image target="_blank" href="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" padding="0" width="280px" height="280px" src="https://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" />
 			

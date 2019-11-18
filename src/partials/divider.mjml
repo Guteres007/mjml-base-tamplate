@@ -1,5 +1,5 @@
 <!-- separátor -->
-	<mj-section padding="0" width="600px">
+	<mj-section padding="0">
       <mj-column >
         <mj-table padding="0" line-height="0">
             <tbody>

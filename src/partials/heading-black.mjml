@@ -1,6 +1,6 @@
-<mj-section width="600px" mj-class="p0">
+<mj-section mj-class="p0">
   <mj-column mj-class="black" mj-class="p0">
-  	   <mj-text align="center" width="600px" mj-class="text-white p0">
+  	   <mj-text align="center" mj-class="text-white p0">
   	       <h2 class="h2" style="display: block; padding: 7px;" >Kupte větší balení a ušetříte!</h2>
   	   </mj-text>
   </mj-column>

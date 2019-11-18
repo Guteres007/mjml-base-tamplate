@@ -1,5 +1,5 @@
 
-<mj-section width="600px" mj-class="white" css-class="two-products" >
+<mj-section mj-class="white" css-class="two-products" >
 	   <mj-column css-class="col" >
 	       <mj-table padding="0" mj-class="table-fixed" css-class="b-container" width="300px">
 	        <tr>
@@ -33,7 +33,7 @@
 								line-height: 11px;
 							">
 Classic Petite Melrose</p>
-	                  	    <p class="h3">600 Kč</p>
+	                  	    <p class="h3" style="line-height: 24px;">600 Kč</p>
 
 	                  	     <div><!--[if mso]>
 								  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:36px;v-text-anchor:middle;width:128px;" stroke="f" fillcolor="#009e31">
@@ -90,7 +90,7 @@ Classic Petite Melrose</p>
 								line-height: 11px;
 							">Boss No.6 Bottled 50ml
 							</p>
-	                  	    <p class="h3">600 Kč</p>
+	                  	    <p class="h3" style="line-height: 24px;">600 Kč</p>
 
 	                  	    <div><!--[if mso]>
 								  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:36px;v-text-anchor:middle;width:128px;" stroke="f" fillcolor="#009e31">
@@ -120,7 +120,7 @@ Classic Petite Melrose</p>
 
 
 
-<mj-section width="600px" mj-class="white"  css-class="two-products">
+<mj-section mj-class="white"  css-class="two-products">
 	   <mj-column css-class="col">
 	       <mj-table padding="0" mj-class="table-fixed" css-class="b-container" width="300px">
 	        <tr style="padding:50px">
@@ -154,7 +154,7 @@ Classic Petite Melrose</p>
 								line-height: 11px;
 							">
 Classic Petite Melrose</p>
-	                  	    <p class="h3">600 Kč</p>
+	                  	    <p class="h3" style="line-height: 24px;">600 Kč</p>
 
 	                  	     <div><!--[if mso]>
 								  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:36px;v-text-anchor:middle;width:128px;" stroke="f" fillcolor="#009e31">

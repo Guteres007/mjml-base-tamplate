@@ -1,0 +1,44 @@
+{% extends "brasty.mjml" %}
+
+{% block title %}Basic template - MJML Starter Base{% endblock %}
+{% block preheader %}Starter base for Email templating with Gulp, MJML and Nunjucks{% endblock %}
+
+{% block containerbackground %}
+background-color="#f1f1f1"
+{% endblock %}
+
+
+
+
+{% block content %}
+   
+   <mj-section>
+       <mj-column>
+           <mj-text>
+               
+           </mj-text>
+       </mj-column>
+   </mj-section>
+	<!-- Header -->
+  {% include "brasty-header.mjml" %}
+
+  {% include "intro.mjml" %}
+
+
+
+  {% include "heading-purple.mjml" %}
+
+ 
+  {% include "one-line-product.mjml" %}
+ 
+
+
+
+
+
+
+
+
+   {% include "footer.mjml" %}
+
+{% endblock %}
