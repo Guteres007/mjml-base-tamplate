@@ -31,10 +31,7 @@ background-color="#f1f1f1"
  
   {% include "one-line-product.mjml" %}
  
-
-
-
-
+  {% include "divider-small.mjml"%}
 
 
 
