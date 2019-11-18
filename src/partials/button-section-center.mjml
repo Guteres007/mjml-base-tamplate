@@ -1,8 +1,6 @@
 
 <mj-section mj-class="white">
     <mj-column>
-        <mj-button padding="30px 0" font-size="20px" inner-padding="15px 80px" text-transform="uppercase" href="/nekam">
-            Dokončit nákup
-        </mj-button>
+        <mj-button css-class="ph20" padding="30px 0" font-size="20px" inner-padding="15px 80px" text-transform="uppercase" href="/nekam">Dokončit nákup</mj-button>
     </mj-column>
 </mj-section>

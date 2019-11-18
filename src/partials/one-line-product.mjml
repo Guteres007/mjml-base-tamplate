@@ -1,13 +1,13 @@
-<mj-section mj-class="white">
+<mj-section mj-class="white" css-class="one-line-product">
     <mj-column>
         <mj-table table-layout="fixed" padding="0">
             <tr>
-                <td style="width: 150px">
+                <td class="b-container" style="width: 150px; ">
                     <a target="_blank" href="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg">
                     <img style="width: 150px; height:150px; display: inline-block; background: black;" src="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" alt="Produkt název">
                     </a>
                 </td>
-                <td style="vertical-align: bottom;">
+                <td style="vertical-align: bottom;" class="b-container">
                  <table>
                         <tbody>
                             <tr>
@@ -23,8 +23,8 @@
                     <table style="width:100%;">
                         <tbody>
                             <tr>
-                                <td><p class="text-green" style="font-size: 18px;">Poslední 2 kusy</p></td>
-                                <td class="text-black fz22 h1" style="text-align: right; padding-right: 30px;"><p>3 999,-</p></td>
+                                <td style="padding-top: 10px; padding-bottom: 20px;"><p class="text-green" style="font-size: 18px; ">Poslední 2 kusy</p></td>
+                                <td class="text-black fz22 h1" style="text-align: right; padding-right: 30px; padding-top: 10px; padding-bottom: 20px;"><p>3 999,-</p></td>
                             </tr>
                         </tbody>
                     </table>
