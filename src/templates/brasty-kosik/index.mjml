@@ -1,4 +1,4 @@
-{% extends "brasty.mjml" %}
+{% extends "opusteny.mjml" %}
 
 {% block title %}Basic template - MJML Starter Base{% endblock %}
 {% block preheader %}Starter base for Email templating with Gulp, MJML and Nunjucks{% endblock %}
@@ -32,6 +32,14 @@ background-color="#f1f1f1"
   {% include "one-line-product.mjml" %}
  
   {% include "divider-small.mjml"%}
+
+  {% include "one-line-product.mjml" %}
+ 
+  {% include "divider-small.mjml"%}
+
+  {% include "button-section-center.mjml"%}
+
+
 
 
 

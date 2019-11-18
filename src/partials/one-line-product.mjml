@@ -1,5 +1,38 @@
-<mj-section >
+<mj-section mj-class="white">
     <mj-column>
-        <mj-image width="150px" height="150px" target="_blank" href="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" src="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" alt="Produkt název" />
+        <mj-table table-layout="fixed" padding="0">
+            <tr>
+                <td style="width: 150px">
+                    <a target="_blank" href="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg">
+                    <img style="width: 150px; height:150px; display: inline-block; background: black;" src="http://brastygroup.vshcdn.net/images/w320/hugo-boss-boss-no-6-bottled-night-toaletni-voda-pro-muze-200-ml/6773-1.jpg" alt="Produkt název">
+                    </a>
+                </td>
+                <td style="vertical-align: bottom;">
+                 <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a class="text-black anchor-reset fz22 h1" href="/nekam" >Daniel Wellington Clasic Petite Melroce</a>
+                                    <p style="font-size:18px; letter-spacing:0.18px; line-height:24px; margin-top: 0;">Dámské hodinky</p>                                    
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+
+                    <table style="width:100%;">
+                        <tbody>
+                            <tr>
+                                <td><p class="text-green" style="font-size: 18px;">Poslední 2 kusy</p></td>
+                                <td class="text-black fz22 h1" style="text-align: right; padding-right: 30px;"><p>3 999,-</p></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                
+            </tr>
+
+       
+        </mj-table>
     </mj-column>
 </mj-section>
