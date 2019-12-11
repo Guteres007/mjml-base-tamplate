@@ -8,7 +8,7 @@ sender_email = "martin@andrasi.cz"
 receiver_email = "martin@andrasi.cz"
 #receiver_email = "martin.andrasi@parfemgroup.cz"
 password = getpass.getpass("Type your password and press enter:")
-html = open('./dist/html/brasty-osobni/index.html')
+html = open('./final-html/brasty-personal/index.html')
 
 html_decode = html.read()
 content_HTML = MIMEText(html_decode, "html")
